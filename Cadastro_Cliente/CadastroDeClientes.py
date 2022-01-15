@@ -3,7 +3,7 @@ from lib.interface import *
 from lib.arquivo import *
 
 
-#Programa Principal
+#Programa Principal - inicio
 
 arq = 'cadcli.txt'
 arq1= 'cadastrosenhas.txt'
