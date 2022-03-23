@@ -12,7 +12,7 @@ Espero que gostem ... Já está em plataforma windows ... 😄
 *       a. cadcli.txt
 *       b. cadastrosenhas.txt
 
-Obs: Lembre-se de que a hierarquia das pastas é fundamental para que o sisteminha de Clientes e o de Senhas funcione adequadamente, ok !!!
+Obs: 🎗️ Lembre-se de que a hierarquia das pastas é fundamental para que o sisteminha de Clientes e o de Senhas funcione adequadamente, ok !!!
   
 
       
