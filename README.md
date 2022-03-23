@@ -11,4 +11,8 @@ Espero que gostem ... Já está em plataforma windows ... 😄
 * 3 **Banco de dados -> Txt:**
 *       a. cadcli.txt
 *       b. cadastrosenhas.txt
+
+Obs: Lembre-se de que a hierarquia das pastas é fundamental para que o sisteminha de Clientes e o de Senhas funcione adequadamente, ok !!!
+  
+
       
